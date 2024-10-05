@@ -1,7 +1,5 @@
 def calculate_sum():
-    sum = 0
-    
-    
+    Sum = 0
     numbers = [1, 2, 3, 4]
     total = sum(numbers)
     print("The sum of the numbers is:", total)
@@ -12,3 +10,4 @@ def calculate_sum():
     print("The result is:", result)
 
 calculate_sum()
+
