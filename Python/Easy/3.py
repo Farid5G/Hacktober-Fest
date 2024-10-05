@@ -8,3 +8,10 @@ class Car:
     def __init__(self, make, model):
         self.make = make
         self.model = model
+
+c = Car(1984,"old")
+greet()
+print(add(2,5))
+print(c.make)
+print(c.model)
+
